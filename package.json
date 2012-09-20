@@ -1,0 +1,24 @@
+{
+  "name": "express-compose",
+  "version": "0.0.1",
+  "description": "Engine agnostic helpers for express view rendering.",
+  "author": "Aurélien Scoubeau <aurelien.scoubeau@gmail.com>",
+  "main": "./index",
+  "scripts": {
+    "test": "make test"
+  },
+  "engines": {
+    "node": ">= 0.8.3"
+  },
+  "dependencies": {
+    "underscore": ">=1.3.3",
+    "amdefine": ">=0.0.2"
+  },
+  "devDependencies": {
+    "express": "3.0.x",
+    "jade": "0.x",
+    "mocha": "1.4.x",
+    "chai": "1.2.x",
+    "supertest": "0.2.x"
+  }
+}
