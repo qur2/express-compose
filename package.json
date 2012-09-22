@@ -19,5 +19,15 @@
     "mocha": "1.4.x",
     "chai": "1.2.x",
     "supertest": "0.2.x"
-  }
+  },
+  "keywords": [
+    "express",
+    "view",
+    "rendering",
+    "templating",
+    "decorate",
+    "repeat",
+    "render"
+  ],
+  "repository": "git://github.com/qur2/express-compose.git"
 }
