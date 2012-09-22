@@ -1,6 +1,6 @@
 {
   "name": "express-compose",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Engine agnostic helpers for express view rendering.",
   "author": "Aurélien Scoubeau <aurelien.scoubeau@gmail.com>",
   "main": "./index",
