@@ -1,6 +1,6 @@
 # express-compose
 
-Engine agnostic view rendering helpers for express.
+Engine agnostic view rendering helpers for express. [![Build Status](https://secure.travis-ci.org/qur2/express-compose.png)](http://travis-ci.org/qur2/express-compose)
 
 
 ## Why?
